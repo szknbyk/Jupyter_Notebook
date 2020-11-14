@@ -3,7 +3,7 @@ Jupyter Notebook (Ipython Notebook)
 
 ### linear_model.ipynb
 
-Simple linear model using scikit-learn.
+Simple linear regression model using scikit-learn.
 
 ### diabetes.ipynb
 
